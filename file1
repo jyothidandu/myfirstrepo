@@ -1,2 +1,20 @@
 Today i am learning git and githum
+/* Styling a div element */
+.container {
+  width: 80%; /* Sets the width of the container */
+  margin: 0 auto; /* Centers the container horizontally */
+  padding: 20px; /* Adds internal spacing */
+  border: 1px solid #ccc; /* Adds a light grey border */
+  border-radius: 8px; /* Rounds the corners of the border */
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+}
+
+/* Styling an image */
+img {
+  max-width: 100%; /* Ensures the image fits within its container */
+  height: auto; /* Maintains aspect ratio */
+  display: block; /* Removes extra space below the image */
+  margin-bottom: 10px; /* Adds space below the image */
+}
+
 
